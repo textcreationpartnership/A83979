@@ -1,0 +1,392 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>England's new vvonders or Four strange and amazing relations that have lately come to pass in England I. A strange and wonderfull account of one Mary Blackstone, near Hull in York-shire, who after ten years barrenness, was with child of a [mo]nstrous birth, and delivered after wo [sic] years going of it in having 3 heads, each an eye in the forehead, serpents twisting about each neck, 4 arms, and 4 legs, each 10 fingers and toes on the hands and feet; the privities of male and female. With the examination of the mother by the miller, what answer she [ga]ve, her prayer and advice to all women. Not to wish for things God sees not convenient to give lest fearfull punishments overtake them, with the [...] for her funeral sermon, before she dyed, and the substance of the sermon. By D. Boase. [I]I. An account of a mighty serpent, and the appearing of a terrible fiery serpent, at [...] Bedfordshire. ... [I]V. An account of two enemies fighting in the [...] in Bri[t]any in France. All very terrible and wonderful. Licensed according to print.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83979</idno>
+            <idno type="STC">Wing E3003A</idno>
+            <idno type="STC">ESTC R231212</idno>
+            <idno type="EEBO-CITATION">99896794</idno>
+            <idno type="PROQUEST">99896794</idno>
+            <idno type="VID">136929</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83979)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 136929)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2443:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>England's new vvonders or Four strange and amazing relations that have lately come to pass in England I. A strange and wonderfull account of one Mary Blackstone, near Hull in York-shire, who after ten years barrenness, was with child of a [mo]nstrous birth, and delivered after wo [sic] years going of it in having 3 heads, each an eye in the forehead, serpents twisting about each neck, 4 arms, and 4 legs, each 10 fingers and toes on the hands and feet; the privities of male and female. With the examination of the mother by the miller, what answer she [ga]ve, her prayer and advice to all women. Not to wish for things God sees not convenient to give lest fearfull punishments overtake them, with the [...] for her funeral sermon, before she dyed, and the substance of the sermon. By D. Boase. [I]I. An account of a mighty serpent, and the appearing of a terrible fiery serpent, at [...] Bedfordshire. ... [I]V. An account of two enemies fighting in the [...] in Bri[t]any in France. All very terrible and wonderful. Licensed according to print.</title>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Blare at the Looking Glass off London-Bridge: and reprinted at Aberdeen by Iohn Forbes,</publisher>
+                  <pubPlace>[Aberdeen] :</pubPlace>
+                  <date>anno Dom. 1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Lwe copy, reel 2443, is tightly bound, title page is stained and has missing print.</note>
+                  <note>Reproduction of original in the Wellcome Institute for the History of Medicine, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Funeral sermons --  17th century.</term>
+               <term>Monsters --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  1689-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:136929:1"/>
+            <pb facs="tcp:136929:1" rendition="simple:additions"/>
+            <p>ENGLAND'S <hi>New VVonders</hi> OR Four Strange and Amazing <hi>Relations</hi> That have lately come to paſs in <hi>England.</hi>
+            </p>
+            <list>
+               <item>I. A ſtrange and Wonder<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ull Account of one <hi>Mary Blackſtone,</hi> near <hi>Hull</hi> in <hi>York-ſhire,</hi> who after ten Years Barrenneſs, was with Child of a M<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nſtrous Birth, and de<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ivered after <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wo Years going of it, it h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ving 3 Heads, each <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Eye in the F<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rehead, Serpents twi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing about each Neck, 4 Arms, and 4 Legs, each 10 Fingers and To<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s on the H<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nds and Feet; the Privities of Male and Female. With the Examination of the Mother by the Mi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſter, what anſwer ſhe <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ve, her prayer and Advice to all Women<g ref="char:punc">▪</g> 
+                  <hi>Not to wiſh for <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hing<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> God ſees not Conveni<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to g<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ve, leaſt fearfull puniſhment <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>vertake them,</hi> With the T<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>x<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> choſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for her Funeral Ser<g ref="char:EOLhyphen"/>mon, befor<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhe dyed, <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſubſtance of the Sermon. By <hi>D. Bo<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe;</hi>
+               </item>
+               <item>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>I. An Acc<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nt of a mighty Tempeſt, and the <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ppearing of a <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>errible Fiery Serpent, at <hi>Laightown Buz<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Bed<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ordſhire</hi>
+               </item>
+               <item>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>II An <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ccount of a mighty Storm of Hail, <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ear <hi>Sta<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ford in Northampton ſhire,</hi> which deſtroy'd, <hi>many Cattle <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d Fowl wou<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d diver<gap reason="illegible" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>op<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e cauſe<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> great <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nundation, that <gap reason="illegible" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap>oyed ſeveral Mils much Corn and other matters, ſome of th<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>n<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s being</hi> 9 <hi>or</hi> 10 <hi>inches in Compaſs</hi>
+               </item>
+               <item>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>V. An Account of two <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rmies fighting in the <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, in <hi>Bri<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>any</hi> in <hi>France.</hi> All very terrible and wonderful.</item>
+            </list>
+            <p>Licenſed according to Order.</p>
+            <p>
+               <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ONDON,</hi> Printed for <hi>J. Blare</hi> at the <hi>Loking Glaſs</hi> on <hi>Lond<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n-Bridg<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>:</hi> and Reprinted at <hi>ABERDEEN</hi> by IOHN FORBES, <hi>Anno DOM.</hi> 1697.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account_of_portentous_events">
+            <div n="1" type="chapter">
+               <pb facs="tcp:136929:2"/>
+               <pb n="3" facs="tcp:136929:2" rendition="simple:additions"/>
+               <head>CHAP. I.</head>
+               <argument>
+                  <p>A Strange and Wonderfull Account of a Monſte<g ref="char:EOLhyphen"/>rous Child with. 3 Heads, 4 Arms 4 Leggs, and Eyes in its Forehead, ten Fingers and as many Toes on each Hand and Foot, born near <hi>Hull</hi> in <hi>York-ſhire.</hi> Of the Mothers Confeſsion, Prayer and Funerall Sermon, <hi>&amp;c.</hi>
+                  </p>
+               </argument>
+               <p>STrange and wonderfull are many things we frequently ſee and hear of, to the aſto<g ref="char:EOLhyphen"/>niſhment and amazing of Mankind: Yet if we rightly conſider, why GOD ſends, or ſuffers ſuch things in the world, they may turn to our advantag<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, to warn us from going on in ſinfull ways, and flee from the wrath that is to come. Where ſtr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nge Prodigies or Portants are ma<g ref="char:EOLhyphen"/>nifeſted, they are taken uſually for <hi>Fore-run<g ref="char:EOLhyphen"/>ners</hi> of ſtrange Events, and ſtranger then what I am about to relate, that have wery lately happened, &amp; are atteſted (for a credible truth) by perſons of known integrity I may preſume, have been hardly heard of in any of the Mo<g ref="char:EOLhyphen"/>dern ages of the world, but to come near to my purpoſe, and in order, the Firſt that I ſhall preſent you with, is a ſtrange and amazing Ac<g ref="char:EOLhyphen"/>count,
+<pb n="4" facs="tcp:136929:3" rendition="simple:additions"/>of a Prodigeous Monſterous Birth, which is well atteſted and communicated to us, in the following manner.</p>
+               <p>One <hi>Mary Blackſtour,</hi> being married to a Perſon, at a place near <hi>Hull,</hi> in <hi>Yorkſhire<g ref="char:punc">▪</g>
+                  </hi> not being paſt Child-bearing, but in youth<g ref="char:EOLhyphen"/>full brisk years, was paſſionately deſirous to have a Child, but God with-held from her the fruit of the Womb, which made her angry, and often uſe unbecoming expreſſions; envy<g ref="char:EOLhyphen"/>ing thoſe that had Children: and ſo ſhe con<g ref="char:EOLhyphen"/>tinued about ten Years, though her husband was an active man, and likely enough for the buſſineſs of Generation. At the end of which time, having taken ſome <hi>provocatives,</hi> and o<g ref="char:EOLhyphen"/>ther ſuppoſed helps, her belly began to riſe, but ſometimes again would ſink all on a ſud<g ref="char:EOLhyphen"/>den<g ref="char:punc">▪</g> Yet nevertheleſs, ſhe had a ſtrong con<g ref="char:EOLhyphen"/>ceit ſhe was with Child, and would not be perſwaded from the belief, by judicious grave Matrons, who took it for a windy, ſpu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gy, or watry mole; which ſometimes happens, and is called a falſe Conception: Yet the uſual time of Womens going being expired, and no ſign or Labour, of Delivery appear<g ref="char:EOLhyphen"/>ing, ſhe began to grow ſomewhat aſhamed of her <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oaſtings; and imprudently uttered raſh
+<pb n="5" facs="tcp:136929:3" rendition="simple:additions"/>wiſhes or Vows, as ſhe afterward confeſſed, to the giving God a juſt off<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nce, to inflict ſome judgement on her. Yet her belly continued to grow big; and ſhe felt ſtrange pains, un<g ref="char:EOLhyphen"/>uſual ſweats and faintings, and ſo it continu<g ref="char:EOLhyphen"/>ed near two Years, ſo that ſhe fa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cied ſhe had got a Tinpany, or was ſo believed by others, when indeed it was no otherwiſe, for at the end of two Years, from the beginning of her firſt diſorder and fancying ſhe was with child, ſhe fell into heavy pains as a Women in travel, but greater and more unuſual: this continued ſome time without any app<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rent hopes of delivery, till the 4th, o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>May</hi> laſt 1696.</p>
+               <p>On this day, ſeveral Women being with her, ſhe was with extraordinary pains and labour delivered of a monſterous Child to the affrightment of all that were preſent, hav<g ref="char:EOLhyphen"/>ing three Heads, wonderouſly miſhappen, each having one Eye ſtanding in the fore-head, and a ſmall twiſting thing in the form of a Serpent about each neck: It had four diſtinct Arms and Hands, and on the hands each ten Fingers: though not quite ſo open or diſtinct, ſome being leſs in proportion then uſual to others, It had alſo four Legs, and four Feet, and tho but one body, yet there appeared ſeams in
+<pb n="6" facs="tcp:136929:4" rendition="simple:additions"/>it as if two or more wer joined, or were incorporated into one, the Feet had a pro<g ref="char:EOLhyphen"/>portion of Toes to the Fingers upon the Hands: It had likeways the privy Members of Male and Female, and was expoſed to the view of many Eminent perſons, who came divers Miles to ſee it: It was heard to cry from all the Heads at one and the ſame time, and many other Obſervations were taken of it.</p>
+               <p>The M<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ther by the hard pains of her Travel, and this Affrightment, Sorrow and ſome other concurrents, fell into a weak Condition, ſo that her upriſing being diſpair<g ref="char:EOLhyphen"/>ed of, ſhe deſired a Miniſter might be ſent for (which accordingly was done) to pray with her, and to give her Spiritual Conſo<g ref="char:EOLhyphen"/>lation which was done. And divers Queſ<g ref="char:EOLhyphen"/>tions was asked her, as, whether ſhe was any ways ſenſible how ſhe might offend GOD, that might cauſe him thus for to afflict her with ſo Monſterous an Iſſue? She replyed unto this with a faint languiſhing Voice, that ſhe believed ſhe had provoked the Divine-Goodneſs, becauſe that ſhe had been too paſſionatly deſirous of Children, and now like <hi>Rachel,</hi> had brought forth a <hi>Benoani,</hi> the child of her ſorrow: For ſhe had often de<g ref="char:EOLhyphen"/>ſired
+<pb n="7" facs="tcp:136929:4" rendition="simple:additions"/>that ſhe might have a Child though ſhe were made an Example, or ſuffered never ſo much upon that account: Which ſhe believed now had fallen juſtly upon her. And thereupon ſhe fell inſtantly into this</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="prayer">
+                           <head>PRAYER.</head>
+                           <p>
+                              <hi>O</hi> Lord God of infinit Mercies, forgive the ſins of my raſhneſs and vain deſires, blot out my iniquities, and lay not my ſins unto my charge, but give me patience in all my ſufferings: And grant me, O Lord, if it ſhall be thy good pleaſure, for to reſtore me to my former Health, that I may live Vprightly; Soberlie, and in a ſincere Godlie Life, more then heretofore I have done. But O Lord, however it ſhall pleaſe thee to deal with me, either in Life or Death, I do freely and chearfullie reſign up my Soul and Body to thy moſt Mercifull Diſpoſall, and through the Mercies and Mediation of thy onely Son, Ieſus Chriſt, my ever bleſſed Lord and Saviour, <hi>Amen.</hi>
+                           </p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>Then ſhe Exhorted all that came to viſite her, eſpecially Women, to be contented with what GOD was pleaſed to ſend, or beſtow on them: Not to be too vehement in their de<g ref="char:EOLhyphen"/>ſires after any thing this world can afford, but keep all their wiſhes and deſires within bounds
+<pb n="8" facs="tcp:136929:5" rendition="simple:additions"/>that they may be pleaſing to Almighty God, who knows beſt what to give, and what to reſtrain from us: And not like <hi>Rachell,</hi> to cry our (when God reſtrains the fruit of the Womb) give me Children or I die: which in ſome meaſure, was now her c<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe. And ſhe be<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ieved, proceeded from her raſh wiſhes and vehement deſire after ſome Children, de<g ref="char:EOLhyphen"/>ſiring for what had happened after death, for that <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er almoſt<g ref="char:punc">▪</g> only failing, and what elſe had happened, calling God to witneſs ſhe had lived chaſtly and honeſtly all her lifetime, as well ſi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as in <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Marriage.</p>
+               <p>And then finding death approaching, ſhe deſired a Sermon might be preached at her Funeral, for to exhort all to be carefull how they ſpend their days in Pride, Luxury and Wantonneſs, leaſt they too ſadly repent it in the end: Appointing it from the Words of our Saviour, <hi>Luke</hi> 15.18.19 <hi>I will ariſe and go to my Father, and will ſay unto him: Father I have ſinned againſt Heaven, and in thy ſight, and am no more worthy to be called thy Son, make me as one of thy hired Servants.</hi>
+               </p>
+               <p>From theſe words it was inferred, that it is a great ſin to fly from God, (as the Prodigal Son did from his Father) on preſumption,
+<pb n="9" facs="tcp:136929:5" rendition="simple:additions"/>and hopes to live ryotouſly always: But when this is done, and we ſee we are ſtraightned and brought to miſery under Heavens afflict<g ref="char:EOLhyphen"/>ing Hand, and that our ſtrength and beautie fades, then it is not too late: For the Pro<g ref="char:EOLhyphen"/>digal Son, after this was received, and that not without Rejoicing. That we ought not to be, however, too confident in any thing as thinking there is any worth in us, that GOD ſhould have ſo much regard to us, as to t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke us into his Favour in our greateſt need and neceſſity: When we have ſquandred away the Prime o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> our days, and in ſerving our own Luſts: But that we ſhould ſeek him early that he may be found of us, and foreſake all things for the Love of Chriſt: that when we come to dye, we may live with him Eternally. He exhorted the good Women preſent not ſo much to deſire Children, as to conſider when they have them, to bring them up in the fear of the Lord: <hi>Rachel</hi> was paſſionat, when ſhe found <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hé bare no Children to <hi>Iacob,</hi> and ſo, for that ſhe ſaid, <hi>Give me Children or I dye.</hi> And indeed ſhe had her laſt Son <hi>Benjamin,</hi> to her ſorrow, for in her Child bed ſhe dyed: And thus it might be the caſe of this woman now departed. And ſo conclud all with good
+<pb n="10" facs="tcp:136929:6" rendition="simple:additions"/>and ſober Advice, to leave off our ſins and follies, and turn to God with all ſpeed, that he may receive us into the Everlaſting Arms of Love, <hi>Amen.</hi>
+               </p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II.</head>
+               <argument>
+                  <p>An Account of a Terrible Tempeſt near <hi>Laigh<g ref="char:EOLunhyphen"/>ton-Buzard,</hi> in <hi>B<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>dfordſhire, May 13,</hi> And a ſtrange Fire in the ſhap of a Serpent, that drew up the Water out of <hi>Shipton brook.</hi>
+                  </p>
+               </argument>
+               <p>AT ſundry timer, ſtrange firie Meteors have happened in the Air, and very near the Earth: But I think not in this manner, as I have heard of in any ſtory, and therefore take of it the following Relation. On the 12th of <hi>May,</hi> a great Tempeſt happened, accompanied with prodigious Rain, Thunder and Lightning, more terrible then has been known for many years before, which occaſion<g ref="char:EOLhyphen"/>ed the next day violent floods of Water, by com<g ref="char:EOLhyphen"/>ing down the Hills, and overflowing the Brooks and Rivers; But that which is moſt remarkable<g ref="char:punc">▪</g> is, that after a prodigeous clap of Thunder about Noon, there broke out (as from a cloud) a long ſtream of Fire, which appeared greater as it came nearer to the Earth, forming it ſelf into the ſhape of a prodigeous Firie Serpent that appeared, the Tail dragging on the ground, making a noiſe like a Whirl-wind ſindging the Graſs in its way,
+<pb n="11" facs="tcp:136929:6" rendition="simple:additions"/>but that which formed the Head and upper part, was elevated as high as the higheſt Trees, or <hi>Laigh<g ref="char:EOLhyphen"/>town Steeple,</hi> and in the body of the firie Serpent, ſomething oculd be ſeen and plainly diſcerned, working as if ſo be it had been caſed up in a glaſs, whilſt a very terrible ſmoak aſcended, and ſtill it moved on, to the great ter<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>our and amazement of the people, till it came unto <hi>Shipton Brook,</hi> where the Tail dragging on the Water cauſed a terrible hiſſing, and ſpouted up the Water a great height, dividing as it were, the Brook in its paſſage over, and the evaporated water fell down in ſmall Rain a great compaſs, and immediatly it Thundered and a terrible Storm enſued, in which this body of fire diſſipated and vaniſhed. This is arreſted by divers, who ſay they were Eye-witneſſes of i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and much terrified at ſo dreadfull a ſight, which had it ap<g ref="char:EOLhyphen"/>peared in the night time, it would have been far more dreadfull and amazing.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III.</head>
+               <argument>
+                  <p>An account of a terrible Storm of Hail, the Stones as big as Gooſe Eggs near <hi>Stanford,</hi> in <hi>Nor<g ref="char:EOLhyphen"/>thamptoun-ſhire,</hi> killing divers Cattle and wounding many People. With a mighty Flood making very great dammage.</p>
+               </argument>
+               <p>ON the 16th of <hi>May,</hi> prodigeous black Clouds began to gather, which over
+<pb n="12" facs="tcp:136929:7" rendition="simple:additions"/>the greater part of this, and other Countries adjacent cauſed a darkneſs, that had it not been ſeen at that time a day, ſo that people were apprehenſive of a violent Storm ap<g ref="char:EOLhyphen"/>proaching, and happy it was for many that they had ſuch Notice, for immediatly the Thunder began to bellow and the lightning to rend the Clouds, and with prodigeous flaſhes enlighten the Air, and run along the Ground, when immediatly ſome great drops of Rain fell, which was followed by pro<g ref="char:EOLhyphen"/>digeous Hail-ſtones which wounded divers that were haſting for ſhelter, killed a great many Fowls, and many ſmall Cattle; Some of theſe ſtones being nine or ten inches in compaſs, of divers forms, ſome ragged, ſome four ſquair, ſome oval, long or round, and ſome again in the ſhapes of divers inſtruments falling ſo violently, that they beat divers young Trees in pieces, greatly damnadging the Corn, Peaſe, <hi>&amp;c.</hi> and cut off branches of long ſtanding Trees, thicker than ones finger, lying in ſuch prodigeous Quantities in the ways, for a great many hours after<g ref="char:EOLhyphen"/>ward unmelted, ſo that the Horſe-Carts, Coaches, and Waggons, eſpecially in the narrow ways, could not paſs without great
+<pb n="13" facs="tcp:136929:7"/>defficultie. The Storm continued about an hou<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g> and damnified a great many Buildings, by beating off the Tiles and Thatch, ſome ſcores of Pigeons, Rooks, Daws. <hi>&amp;c.</hi> have been found dead in the fields<g ref="char:punc">▪</g> killed by the fall of the Stones and many Horſes, Cows and Oxen, were ſo bruiſed and wounded that many of them are expected not to live, as alſo ſeveral people who were too far from ſubſtantial ſhelter, or took no timely Warning to get to it. And no ſooner were theſe prodigeous Stones melted, for the Sun ſhined out hot a little after but the Water came pouring down from the Hills into the Valleys and Plains, ſo prodigeouſly, that many Sheep, Swine, and other Cattle were ſwept away and driven violently by the Torrent into Meadows, Rivers and other D<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pths, and there periſhed: Several Mills were t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rown down, that ſtood on Rivulets, and ſome people is ſaid to be drowned in them, and for a time there was a fearfull Inundation, which has done much harm to the Graſs and Corn the like for ſuddenneſs and Violence not hav<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing happened in theſe parts for many Ages.</p>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="14" facs="tcp:136929:8"/>
+               <head>CHAP. IV.</head>
+               <argument>
+                  <p>A dreadfull Account of two Armies ſeen fighting in the Air, near <hi>Nantz</hi> in <hi>Britany,</hi> or <hi>France.</hi>
+                  </p>
+               </argument>
+               <p>STrange and amazing things in this nature, have been ſeen in Coun<g ref="char:EOLhyphen"/>tries, near ſome Change and Cataſ<g ref="char:EOLhyphen"/>trophy to warn them to a timely Re<g ref="char:EOLhyphen"/>pentance of their ſins, when the Judgements are hanging over their <hi>heads</hi> before the deſtruction of <hi>Jeruſa<g ref="char:EOLhyphen"/>lem,</hi> Armies (with great blaſts of thun<g ref="char:EOLhyphen"/>der and lightning) were ſeen coming towards it, and men on horſeback (as we find in the <hi>Macchabees</hi>) runing on each other with firie ſpears &amp; launces &amp; many other hiſtories are full of ſuch prodigies, ſuch a thing happened in <hi>Enland,</hi> before the unnatural Civil wars broke out in 1641, and in <hi>Ger<g ref="char:EOLhyphen"/>manie</hi> it has often happened, and fore<g ref="char:EOLhyphen"/>run ſome great calamity.</p>
+               <p>
+                  <pb n="15" facs="tcp:136929:8" rendition="simple:additions"/>
+But now it ſeems it is come into <hi>France,</hi> near to the place afoeeſaid. As Letters from the Marqueſs D' <hi>Laverden</hi> and others ſent to the <hi>French</hi> Court, teſtifie, <hi>viz.</hi> That two Armies were ſeen fighting over the Heath of <hi>Pontive</hi> whilſt a great Body of reſerved men ſtood ſtill: That the Ingagement laſted two hours, to the great Terror and aſtoniſhment of the Spectators, and then vaniſhed away: and it was obſerved the Colours of the one appeared all white, the other of a bloody colour, that former had the <hi>Sun</hi> in its colours, which vaniſhed firſt<g ref="char:punc">▪</g> and the Truth of the Story being very well atteſted, it furniſhes abundance of matter of Speculation to all: and there b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing an account of it printed in <hi>France</hi> upon the peopl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Conjectures that the vaniſhing of the Colours with the Sun, In it ſignified the defeat of <hi>Lewis</hi> his great Undertakings; for the Inv<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſion of <hi>England</hi> and further concluding<g ref="char:punc">▪</g> that the end of the War would be fatal to their Nation, the thing was ſurpreſſed, and the <hi>Printer</hi> im<g ref="char:EOLhyphen"/>priſoned, but that ſtopt not the murmour and fears of the Vulgar who being weary of oppreſſion by Taxes, Long for a <hi>Peace,</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:136929:9" rendition="simple:additions"/>
+            <p>
+               <figure>
+                  <figDesc>seven-headed dragon</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:136929:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
